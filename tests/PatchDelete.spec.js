@@ -1,7 +1,6 @@
 /*
 Assignment: PATCH and DELETE API Automation
 
-Objective:
 1. Login using a valid student account.
 2. Update the student's password using the PATCH API.
 3. Delete the student using the DELETE API.
